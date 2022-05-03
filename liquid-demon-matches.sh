@@ -1,0 +1,6 @@
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 2VN3tY8SZMS7UHeYANUQRhpyV8aReqiU1aBqx6sLZ2w8 --fund-recipient --allow-unfunded-recipient
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 62eqfpVAUviWDxgs9a46D6zzCwc6ZrzkYDAres9MCbn4 --fund-recipient --allow-unfunded-recipient
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 EkE7urcRPHMW2RDciuezdfBf87TEw2dPxwiCXVozesKp --fund-recipient --allow-unfunded-recipient
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 GokzTkMp9kzggP9TMNb4skmqzhF9V8vZenPUrKKwwMe4 --fund-recipient --allow-unfunded-recipient
+spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 gNEt8EeWqdcSpebQXZ8YVnBC9k5yKp2WGvnA9HR8RzQ --fund-recipient --allow-unfunded-recipient

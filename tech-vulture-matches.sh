@@ -1,0 +1,3 @@
+spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 BecH7hkNmQsnDWtqGHkWTJywoaRzXwiawBGdXZQ5FVBn --fund-recipient --allow-unfunded-recipient
+spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA --fund-recipient --allow-unfunded-recipient

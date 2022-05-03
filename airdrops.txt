@@ -90,3 +90,636 @@ Transfer 1 tokens
   Recipient: 8ZuKC3kiZD5XsWV6Rd1nUn5YtEFXK4s8xygSQACk6eWo
   Recipient associated token account: 8SLpJcfGpBALawPoC6cWzhspzMWJPz5UoRGKz3YzXXsm
   Funding recipient: 8SLpJcfGpBALawPoC6cWzhspzMWJPz5UoRGKz3YzXXsm (0.00203928 SOL)
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix
+  Recipient associated token account: Gyabt8FvyAEihUTKFqWoSGcW94D3KG7Hancv1FtD1zp1
+  Funding recipient: Gyabt8FvyAEihUTKFqWoSGcW94D3KG7Hancv1FtD1zp1 (0.00203928 SOL)
+
+Signature: 4j3hBE4dRW3ps5gr4XNhKPDFwTzYR9hdDzfCeAh6gwF1t4pytUtFhsUDjpuCXYam5kpLPr8PRuAk7ZPPtqgi2US2
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix
+  Recipient associated token account: Gyabt8FvyAEihUTKFqWoSGcW94D3KG7Hancv1FtD1zp1
+
+Signature: 4euLgUG5GtSkQFjDEY3jbRqJMBJvLY4STaxFJsKNWt9SpefnZuVjuZEwCiLi46a2MvSKZSpAKcgheCPYU1FH9N3S
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 2pbjGKcDfbkNvstZq3Hpdpef6GyBDDYepF3ZFShG2LvH --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 2pbjGKcDfbkNvstZq3Hpdpef6GyBDDYepF3ZFShG2LvH
+  Recipient associated token account: 9b3nWmVtFMtTjuCVC4LcEnPj7NZyMqdeeHqJmW2wpDzL
+  Funding recipient: 9b3nWmVtFMtTjuCVC4LcEnPj7NZyMqdeeHqJmW2wpDzL (0.00203928 SOL)
+
+Signature: 3cPVVg3XoEKCoFeiQr8BLyiPRUUVwo6ihpafth8KNh6BiSgwgaKrue5gRcM4pGJYkr6gJuorKPCB2E6pFk8UspSX
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 3SaKisyDTwZTGErjF71PZwSBLEsoVmfkF718UpCuqMvX --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 3SaKisyDTwZTGErjF71PZwSBLEsoVmfkF718UpCuqMvX
+  Recipient associated token account: ESbC1mthSNGKcKpY3KAxuWru6jVrnXpKBvSEEGs8iPxw
+  Funding recipient: ESbC1mthSNGKcKpY3KAxuWru6jVrnXpKBvSEEGs8iPxw (0.00203928 SOL)
+
+Signature: 3NEdVcdcsfz3EoumMWTfpgb1wLhUq4eHcks42NSBi9f3LCK8RXu4DiBo1BGfaf8gEeAQeAK1NdwhqJtWdh8kKoS7
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 3SaKisyDTwZTGErjF71PZwSBLEsoVmfkF718UpCuqMvX --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 3SaKisyDTwZTGErjF71PZwSBLEsoVmfkF718UpCuqMvX
+  Recipient associated token account: ESbC1mthSNGKcKpY3KAxuWru6jVrnXpKBvSEEGs8iPxw
+  Funding recipient: ESbC1mthSNGKcKpY3KAxuWru6jVrnXpKBvSEEGs8iPxw (0.00203928 SOL)
+Error processing Instruction 0: custom program error: 0x0
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 4TidbLDsddNzJ1bNjKKP5RBujBAwQkb5Ap7j62RMG4it --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 4TidbLDsddNzJ1bNjKKP5RBujBAwQkb5Ap7j62RMG4it
+  Recipient associated token account: 3LzxArWqmgwUiUUQTFTyPtBw2uL9Msrx3Xbp38MaXF62
+  Funding recipient: 3LzxArWqmgwUiUUQTFTyPtBw2uL9Msrx3Xbp38MaXF62 (0.00203928 SOL)
+
+Signature: 5huCDxWqFaQwg55FHrCBMsa3sfe7qqLP3i8JzSXhhBjPrQrsJ3pRMHjVat1fycLPKphe5KfvQZwSJVUCK29g1o9H
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 4pzJGxABKNDTPJ9TWn4Zzq6seme6PCGkYXt2VQUbF12o --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 4pzJGxABKNDTPJ9TWn4Zzq6seme6PCGkYXt2VQUbF12o
+  Recipient associated token account: 7EEuRLYwLSWXo8q8jMTMiPPZmUNFN8i9ZrPkCykwQqVp
+  Funding recipient: 7EEuRLYwLSWXo8q8jMTMiPPZmUNFN8i9ZrPkCykwQqVp (0.00203928 SOL)
+
+Signature: BuJQJpYyHUPLpMAGuW3k6ugqwJ58ByRxgsfGG5dn5FXan9DS5gCww8aaCxwHEffmHVFV61EdyACY6LrrNhohBHb
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 4xf26HYZvFyx9rz1DfuJ1mSECQZPASSktb63eMVNi7Hn --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 4xf26HYZvFyx9rz1DfuJ1mSECQZPASSktb63eMVNi7Hn
+  Recipient associated token account: GQ7xcJ5e1qtFZTUaWGL3SQMMJvXxyFepnhDCAH8HP41v
+  Funding recipient: GQ7xcJ5e1qtFZTUaWGL3SQMMJvXxyFepnhDCAH8HP41v (0.00203928 SOL)
+
+Signature: 4w4zEYneePncTt4tNDTTZqPJEz1KUv7YVD5gRp4E1T5HdT9azjp9CTiKDoxHqtierz7XDnVVo9Jhah3aB3DDr6XU
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 51oET2dy4vCmZ1JMGYR9hbsvsLng1vcLD6z2AZp1uq1j --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 51oET2dy4vCmZ1JMGYR9hbsvsLng1vcLD6z2AZp1uq1j
+  Recipient associated token account: 33vxcw1QiAa9mSEChfRoGVDNpvs3Kbh41qdcm1GJMeb1
+  Funding recipient: 33vxcw1QiAa9mSEChfRoGVDNpvs3Kbh41qdcm1GJMeb1 (0.00203928 SOL)
+
+Signature: 4YjTG5XHZxDZhdyfKLHWyTbvB6cBkmRBaXE2BTzi9V8QVqpfbKG41e8eyhbr1CabPjrY9bJUTJCDuGqZ1c38jWz7
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: 3M9x74DmvxMpPQcQCjqgEuXVj2HGEdAHmbdMTXRcgW6p
+
+Signature: 2FovryNTrayQ3EbF5XJ3iGD8LypJszZdMD2WyaXSpk1kUnpLTs9fG3Gmp1B1qKHyFMKFq9LeuhLcUePhtE2bxc5X
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: 3M9x74DmvxMpPQcQCjqgEuXVj2HGEdAHmbdMTXRcgW6p
+
+Signature: 2kGF3G5Nt3vcXeRpexuyaLArLqruQ1FNkEKg693Cfb66t4QKF2f7Lkroibrcx8WQuCCC8YrG6Rapr4rCrS4DvLas
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 9YS8eKSxLxoVPWfsqHSZmjtukEBZQzBquHZfX19UjGCi --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: 9YS8eKSxLxoVPWfsqHSZmjtukEBZQzBquHZfX19UjGCi
+  Recipient associated token account: FpB8DcLczQycfu4ZEgGjVV3PN8L73oiY3Yjskg4NKW6b
+  Funding recipient: FpB8DcLczQycfu4ZEgGjVV3PN8L73oiY3Yjskg4NKW6b (0.00203928 SOL)
+
+Signature: 5SuVkGpY1SEvtNPrfz3Ki6HXA9VDeWzCb2uDfEKzxF8hK2FtE4FffGwNRQg2qt3XV3RpccssY1Loz9dyf5mP41fQ
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA
+  Recipient associated token account: CHCmcpxs26HSV8opm7q4zMraB5h6cCyb9eRFzFKS2d3s
+  Funding recipient: CHCmcpxs26HSV8opm7q4zMraB5h6cCyb9eRFzFKS2d3s (0.00203928 SOL)
+
+Signature: 3zHy7r4jqQ1zxc1Pf4NynQcS4S6Ys9FgjB9X7UgTK89CFXK82f9BVNWkUiGVm3ZtcFT1VKMDP7ttH8JHqrswBZKA
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 Co6prEHwwzPT2PzkcKfrqGWkq169UrJHLW56dFqJWE2h --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: Co6prEHwwzPT2PzkcKfrqGWkq169UrJHLW56dFqJWE2h
+  Recipient associated token account: 8o6HcsgHAztsJYHEuM7PeJJ1TuEvYZqWmZdjAF7hq3jm
+  Funding recipient: 8o6HcsgHAztsJYHEuM7PeJJ1TuEvYZqWmZdjAF7hq3jm (0.00203928 SOL)
+
+Signature: 36Aqd19Yp7pPXLobpVgV6Ybema9VFTMEZtkagFojmGsxx9acUUZ4ED1bnSdQWVWmsgw4cd46jEMDyK9BkajbgA3T
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 Fb7pzfL6SLDNi79WSWkZm6zKA94LYNsYKDJC7GNvkZaC --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: Fb7pzfL6SLDNi79WSWkZm6zKA94LYNsYKDJC7GNvkZaC
+  Recipient associated token account: 7cdkbG414LZMHhU3MrJKijZQskXB2Aa4VfAeBNrUREG6
+  Funding recipient: 7cdkbG414LZMHhU3MrJKijZQskXB2Aa4VfAeBNrUREG6 (0.00203928 SOL)
+
+Signature: 5DUoziyKvWGcqBBySh4wkeZtLXcK75jt5JbHjD5xS7CyKRriy3UBTZbsjAvnJfe8kTn2hof8tDY6CcfDa23FjRw3
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 G4KNnw8eWJ63qG6wZyJebQsijYi3tjF8wNLmfcYn17px --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: G4KNnw8eWJ63qG6wZyJebQsijYi3tjF8wNLmfcYn17px
+  Recipient associated token account: DY3CxvSm4XYon9N3ktBdaJp9X58WVuLdbzWB4efV19by
+  Funding recipient: DY3CxvSm4XYon9N3ktBdaJp9X58WVuLdbzWB4efV19by (0.00203928 SOL)
+
+Signature: 56GmRecHszjAaNawUuiR2F32satJdDYACrQgWy6ytNGsokhbXGi4dxbXmrG6ukLkf4RPkJhJcPLS1QPySiQM4zPm
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 HCNSNMh4u6WnLPFbysnLZAgm2Ccvg2W9RrNvDDjbGuL1 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: HCNSNMh4u6WnLPFbysnLZAgm2Ccvg2W9RrNvDDjbGuL1
+  Recipient associated token account: 3gqub43KpsgHs2sV6UuV5yzuosiLq276B8Nx32YKmke9
+  Funding recipient: 3gqub43KpsgHs2sV6UuV5yzuosiLq276B8Nx32YKmke9 (0.00203928 SOL)
+
+Signature: 2Vz1fcn8dMeyzzBdfoEvJW4DQWyxNdmimsQqdJwEjFHHXtLJscrdNbb915iC2vMSunqRNoYv3eSu6imbYAsLCzr1
+
++ spl-token transfer 4prmmHLvg9NkZGx2CMg2w9iKCcYiFdSNgK9LSgN4bbCp 1 HJ9dRjJP2RVhQnTyDj8dzEjS1LviChZRzHhRCBGvCBGt --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EmPV5Sm9M9SAKyB2yc13cdW5fyrG3fSLdibfsBzcf8rF
+  Recipient: HJ9dRjJP2RVhQnTyDj8dzEjS1LviChZRzHhRCBGvCBGt
+  Recipient associated token account: C8GH8XhX9U2wxf5EL7Qpm4F2nor4ksByBUBRwBSbUWJJ
+  Funding recipient: C8GH8XhX9U2wxf5EL7Qpm4F2nor4ksByBUBRwBSbUWJJ (0.00203928 SOL)
+unable to confirm transaction. This can happen in situations such as transaction expiration and insufficient fee-payer funds
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 2VN3tY8SZMS7UHeYANUQRhpyV8aReqiU1aBqx6sLZ2w8 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: 2VN3tY8SZMS7UHeYANUQRhpyV8aReqiU1aBqx6sLZ2w8
+  Recipient associated token account: H57E5Z57xj1hhaQZ8Qwh6Jz63srAhNzwHRK2iLZpaVpj
+  Funding recipient: H57E5Z57xj1hhaQZ8Qwh6Jz63srAhNzwHRK2iLZpaVpj (0.00203928 SOL)
+
+Signature: 5ckutMsW6e5BTS11UxRHE1tzLrXyg6nRTnWnAcFHQExzt4AthxPgM6Tae975dzWnWfd2aiQWf1a8MTaj9ZwjHsKG
+
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 62eqfpVAUviWDxgs9a46D6zzCwc6ZrzkYDAres9MCbn4 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: 62eqfpVAUviWDxgs9a46D6zzCwc6ZrzkYDAres9MCbn4
+  Recipient associated token account: 6sxbw1Xn31widmB2r3uuFTopZFvSoi73SrVkCP81a7fc
+  Funding recipient: 6sxbw1Xn31widmB2r3uuFTopZFvSoi73SrVkCP81a7fc (0.00203928 SOL)
+
+Signature: 2WzJ9GZBGNY5ZgPAKpVhwHevgTSJCdYNkr1C1aDGWchR2ztGJDw7p2jDSmVZxJebj1HNC2pqSFAmdoJcDdq26yFc
+
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: EXDCeb61wRz7GU5od3hjfN9msXfKBQFmHrux7uWsJ4jj
+  Funding recipient: EXDCeb61wRz7GU5od3hjfN9msXfKBQFmHrux7uWsJ4jj (0.00203928 SOL)
+
+Signature: 4FFUGS1TQS5g2CxwniHToDfo1x8j6oh3rucg7WbyiuJd8US9v8TMZwGNDMESuiTruXgk4grvVpnt1uF2oRZffMq6
+
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 EkE7urcRPHMW2RDciuezdfBf87TEw2dPxwiCXVozesKp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: EkE7urcRPHMW2RDciuezdfBf87TEw2dPxwiCXVozesKp
+  Recipient associated token account: Hh2mJ1DvL8SMRDDBfeGRFvCHLaMJQk59ygdGn5uSZEGJ
+  Funding recipient: Hh2mJ1DvL8SMRDDBfeGRFvCHLaMJQk59ygdGn5uSZEGJ (0.00203928 SOL)
+
+Signature: 335ypfjry6RgjD5KZHqZqfiTy7kHbq5k8atKxbTtBH9HBGm1Z4TLH1jNjPGidpuSHjLRBUEPxwhLGup7Q56DfQ3F
+
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 GokzTkMp9kzggP9TMNb4skmqzhF9V8vZenPUrKKwwMe4 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: GokzTkMp9kzggP9TMNb4skmqzhF9V8vZenPUrKKwwMe4
+  Recipient associated token account: DtzBKK8qTjgAtQe3WugeSdx47LaeDj9ybJ9aAra7LxFr
+  Funding recipient: DtzBKK8qTjgAtQe3WugeSdx47LaeDj9ybJ9aAra7LxFr (0.00203928 SOL)
+
+Signature: 54rQK2ErFA8w8R9DuFuG5yQHC7QijShGWT3DyxoqRjWpguFK4u8w6ximDZ3SqHXhW4hA9tt1gRSbJLk7oRYJHZjH
+
++ spl-token transfer 8RjzDqcg6zS4yPJg7Bsjc3QLdEc9sphbpWEatCngvxmh 1 gNEt8EeWqdcSpebQXZ8YVnBC9k5yKp2WGvnA9HR8RzQ --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: GfQ5mJg214mxVKCEB1T1MYRRxgkVy9SToYLMRMCQfHvx
+  Recipient: gNEt8EeWqdcSpebQXZ8YVnBC9k5yKp2WGvnA9HR8RzQ
+  Recipient associated token account: 62zTGiySbFbcbtTkxX2b8yTi7ZbCEVFzVUdg1YL1ZkrD
+  Funding recipient: 62zTGiySbFbcbtTkxX2b8yTi7ZbCEVFzVUdg1YL1ZkrD (0.00203928 SOL)
+
+Signature: 5cQzwTZmffH7iEe1xJpEbrS61dVw1Ugap2igrLJSaYi1AhHUFu5AiTdh3BqVA8SfLoYzFSdFdTJmWK7ynKxUp1aZ
++ spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: HEYZYRfSqe9wgw87uuuFWq2M2VczkwPBN4vHDpfXis5t
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: Gf2FGsHVb869euyxcHVFnTARJSSCSThxEB5FV2j8dv9W
+  Funding recipient: Gf2FGsHVb869euyxcHVFnTARJSSCSThxEB5FV2j8dv9W (0.00203928 SOL)
+
+Signature: 4YLMai6g5CHJwMbfZkiWTa4LYKxwcVNVq8YEAPZ8KCy2U7Ab3ArDhHGhTCaWhQsQMVoPcAcRbuxHwUdPkX6x9PEj
+
++ spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 BecH7hkNmQsnDWtqGHkWTJywoaRzXwiawBGdXZQ5FVBn --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: HEYZYRfSqe9wgw87uuuFWq2M2VczkwPBN4vHDpfXis5t
+  Recipient: BecH7hkNmQsnDWtqGHkWTJywoaRzXwiawBGdXZQ5FVBn
+  Recipient associated token account: 6ySdaSRVmZgd2EqT5srN2j2ygJDMtcu2xhm86ac12Cse
+  Funding recipient: 6ySdaSRVmZgd2EqT5srN2j2ygJDMtcu2xhm86ac12Cse (0.00203928 SOL)
+
+Signature: gBpbZYBpE4NvA6F48Z39WfmDSKBtFEFAi9fNEionZZd8GZBRVYUV4vZKv5NDZm7udEQreC1eaqGcLmPhE8NewfV
+
++ spl-token transfer FxyCwJDEHXePAE6Fph6eiwsCvkJw8kV8vnPnSwBFdPPW 1 BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: HEYZYRfSqe9wgw87uuuFWq2M2VczkwPBN4vHDpfXis5t
+  Recipient: BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA
+  Recipient associated token account: 9B8UvepiEBX7SW4khkaWq2bVz8b6qBM1K7JFWPEZqwTy
+  Funding recipient: 9B8UvepiEBX7SW4khkaWq2bVz8b6qBM1K7JFWPEZqwTy (0.00203928 SOL)
+
+Signature: 3PcP2LCjDkPp5etFnUawBprnvvLWzaf2jTqYFSrXWU3qKJNzFeFnNF4T4Kra6TMZRzxEjaLVsotzTuhNi6Pwy68c
+
+
+❰erran❙~/theskeletoncrew/mars/familiars-token-drops(git✱≠main)||(?)❱✔≻ bash -x half-abstract-matches.sh 
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix
+  Recipient associated token account: 9QSGaZEBeKzx3morTwxnJMiR3J9X5dMFQCQUMB9egbuW
+  Funding recipient: 9QSGaZEBeKzx3morTwxnJMiR3J9X5dMFQCQUMB9egbuW (0.00203928 SOL)
+
+Signature: 2Ts8yRBb4dRcMj1WJ61Sh7feBsBx7YcuJGVhTtBV9uenyVAoSXLyVBPdjh2Np4VX7Xz9arnUyyH9K1QJyNHTRqpA
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 2AKGwkLhFgNqKbfuakrjFvvYaTERJ1C91pjDDqKfX2wi --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 2AKGwkLhFgNqKbfuakrjFvvYaTERJ1C91pjDDqKfX2wi
+  Recipient associated token account: D21Ws4vcB6FRbqkDmkNtx1eb59r4w3coMGL9PGFavxGz
+  Funding recipient: D21Ws4vcB6FRbqkDmkNtx1eb59r4w3coMGL9PGFavxGz (0.00203928 SOL)
+
+Signature: 2jmssheUZKw4jM68tqegpUfQHSWxQ8RDnPwcaPJPKq6Q7j8kNRwT9p7rN76Q5SBnmZTkQL9aXUyqyX3FMorbWA9r
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 2TZhx2xBzo4Z4qW5ueuCpgzGfLzASa7vU1zhGEDoRtkZ --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 2TZhx2xBzo4Z4qW5ueuCpgzGfLzASa7vU1zhGEDoRtkZ
+  Recipient associated token account: GhT5KcDvqQynsgxTFoiMb3z8doTMJJuCpEYWaTa36LsY
+  Funding recipient: GhT5KcDvqQynsgxTFoiMb3z8doTMJJuCpEYWaTa36LsY (0.00203928 SOL)
+
+Signature: 5bKPGDQ3ueCpLXHTbYgkG1SCSAxMnMvdqMZkhrpYGCQ6Z84rDAZA9gvBxwmQbfaYfgP7xKwE9PSwWgk6nASs2eEt
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 2iMBvYsRjMZkborfH5zyeu9fXPrQWVf8AWbenmPZxYpV --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 2iMBvYsRjMZkborfH5zyeu9fXPrQWVf8AWbenmPZxYpV
+  Recipient associated token account: F4c7YuTK2MWRsjjNSEFDySqxBZAjRVc6XP3wrj7xyoA4
+  Funding recipient: F4c7YuTK2MWRsjjNSEFDySqxBZAjRVc6XP3wrj7xyoA4 (0.00203928 SOL)
+
+Signature: 4ywZp7GXFHY1MGcWG31LgA3t1XtkhMw1anrFzkUsqxi6HNuJnejX3MCBYSnCg87K4Y2mm1ZAapUK5SMrWJbLoj8c
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 3DSA8zcbFgZLRvzpyDhs9zaHjYaZpfVhYyeubaukcHsj --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 3DSA8zcbFgZLRvzpyDhs9zaHjYaZpfVhYyeubaukcHsj
+  Recipient associated token account: 8Gm2S7es5cbvYvLcYQas3NaLCgqYiWRNmPEGfdg89uLe
+  Funding recipient: 8Gm2S7es5cbvYvLcYQas3NaLCgqYiWRNmPEGfdg89uLe (0.00203928 SOL)
+
+Signature: vVvmxXRCwBSdLopwbET5bF9UuC6tGCujxiTvStihhAp74kusKkiFB4x5JaZPB2eGhreydRtMLtB4NLF3zR8zXYq
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 3zny73kiEqHBnVDjZ13giy2q5aCMibkyaaA2EbqjPGZa --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 3zny73kiEqHBnVDjZ13giy2q5aCMibkyaaA2EbqjPGZa
+  Recipient associated token account: ADRkYEqdgAx3UCLJDt9AKDG9hQHgx6fxiQrfUWQEE11a
+  Funding recipient: ADRkYEqdgAx3UCLJDt9AKDG9hQHgx6fxiQrfUWQEE11a (0.00203928 SOL)
+
+Signature: 3eGeAbdBFeQ6G2mj9iNsx6UCptZE2eLt4iwLEm9CYAaTndPEiypLugEprGYAi1s2VKqDvmzMnt3DRJiQKWB5FAHn
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 5TDJirMWEg2BMuoMQm2CVQWyPV4azFJFdkEEhwPc5hLC --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 5TDJirMWEg2BMuoMQm2CVQWyPV4azFJFdkEEhwPc5hLC
+  Recipient associated token account: 8UQg35ncCNZ3W8DsPhiTjZYt3Bxvv7cj4XhdeKrVUDpM
+  Funding recipient: 8UQg35ncCNZ3W8DsPhiTjZYt3Bxvv7cj4XhdeKrVUDpM (0.00203928 SOL)
+
+Signature: 569J8A8nY7ejjZoeZP3qR1BUbcki3JRyNCFKANpMqqMmFDi7yGYT89Cjuyv4sJNLbdZQLqRemiMgK4w8V68cCtiA
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 743wM9rGPvtqK2ahnFsDcpWpD7FiMoGqNoGUV3BXCPqY --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 743wM9rGPvtqK2ahnFsDcpWpD7FiMoGqNoGUV3BXCPqY
+  Recipient associated token account: 78DrsbpJSDNV33F2nfsxBiLtPcAxpMYYVsHCtw66PCcL
+  Funding recipient: 78DrsbpJSDNV33F2nfsxBiLtPcAxpMYYVsHCtw66PCcL (0.00203928 SOL)
+
+Signature: 2qqxK4hf89LS68YeVL7fxKtBZJQaNPgxSndiyBa4p7MA48wzJBKwE1pq98cwNuNRduQ5eV7LzR8ex2zuriCAXaLy
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: 4B7Bx7EviukbcGdgCVaxY91sbZmPx6F5u9cZzP2NZM2g
+  Funding recipient: 4B7Bx7EviukbcGdgCVaxY91sbZmPx6F5u9cZzP2NZM2g (0.00203928 SOL)
+
+Signature: Z4MJ8ZbQoBRkqzBwK5qDwMZM4GLzgdkbMcrHANMzgNU2fcDCn69uX7UQPHwUQnEe4m9zcNhGbLzMGzKFzJdoiqD
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 7EkxqfdAz5XXkmJr4ukFhJARsh8zo7n9dzy9nKVojm6z --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 7EkxqfdAz5XXkmJr4ukFhJARsh8zo7n9dzy9nKVojm6z
+  Recipient associated token account: S2udmDViAkMaiMZug7ykHoCxVWKmzxUeNAs5GPgUqqB
+  Funding recipient: S2udmDViAkMaiMZug7ykHoCxVWKmzxUeNAs5GPgUqqB (0.00203928 SOL)
+
+Signature: 61YUWZh1MpTEdY42GE68NNsJZDrrRgcSqqdZrCBn2dQY2GxMCTFKFwRZmrTu3fWnAwvHfz3nSuo8RBsPUzYD5Wsg
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 8GPtmxTGLu1EmckfEt147gWiDViMMtDzTET3zTMAtJ6K --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 8GPtmxTGLu1EmckfEt147gWiDViMMtDzTET3zTMAtJ6K
+  Recipient associated token account: 84FyVMmmyMjpRjeVfJzpW1RU3oWLXNAXwo7Ui2XrRZQV
+  Funding recipient: 84FyVMmmyMjpRjeVfJzpW1RU3oWLXNAXwo7Ui2XrRZQV (0.00203928 SOL)
+
+Signature: 3sXzDEP6rZynEyYCn11ai8tBXitXLnNiRPMEsGo2rBvRLCFmq2GSCN3MD4vm2NDDmvfi73wrvcYPVkFvZGQtnbue
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 8TZH9527E2xqFY2BjNKGX87fZX4e8WNrm4yqAkHeksLw --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 8TZH9527E2xqFY2BjNKGX87fZX4e8WNrm4yqAkHeksLw
+  Recipient associated token account: 7Q9apvnD6Ficq7VcYU91TudMuNz3f6zbXqNHCW7e5FHX
+  Funding recipient: 7Q9apvnD6Ficq7VcYU91TudMuNz3f6zbXqNHCW7e5FHX (0.00203928 SOL)
+
+Signature: 5mDd9ZZWUkKNa5DhiqVPKU1xcR3DrzDkDf1cKpPHuHDaUp4vuNRA72A93Uv3gxDw9ZwSXBfNakWRcSyELMhhbbJW
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 8UpvEDMxVMvtAidMqZ7tAWv2FVsqoDQA2o5ATUiAS8BQ --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 8UpvEDMxVMvtAidMqZ7tAWv2FVsqoDQA2o5ATUiAS8BQ
+  Recipient associated token account: Bh5Mp7UEMRHPtoddZqcDsZwU17qNLjQjH1aovfTUKeR4
+  Funding recipient: Bh5Mp7UEMRHPtoddZqcDsZwU17qNLjQjH1aovfTUKeR4 (0.00203928 SOL)
+
+Signature: gqes5ru9NNdjwSHh1yy9YtzsnZWofiUqaCSs549vLcWJerYBTjuL1o1FuNWk23L64RXX9U2C7y78FbLWWctXB1X
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 8kmThcv9YCtYwUdRqQXw3GY9KSai2SYX1Goo3SztDygv --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 8kmThcv9YCtYwUdRqQXw3GY9KSai2SYX1Goo3SztDygv
+  Recipient associated token account: 2NqeJ3HhCayivF3TA8XVCVFNp153jd5Q3oAcr8X6CL2k
+  Funding recipient: 2NqeJ3HhCayivF3TA8XVCVFNp153jd5Q3oAcr8X6CL2k (0.00203928 SOL)
+
+Signature: 2g3m2LwcFbfkaJdVPU45VjhEjtxt41jP5KenyvDN3g7RQMGd1pkvTostdgYQ4APzgRnxQkdqPYrvnMrtvunfyUGQ
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 8sTbWBo1Q3R5yVGzq9NRAggt6MywpMw2zR9VGKDL1F6k --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 8sTbWBo1Q3R5yVGzq9NRAggt6MywpMw2zR9VGKDL1F6k
+  Recipient associated token account: c8reZ5onTNSWufMJxZn5kQJN7yUjYY7ZB9aLvV677Bk
+  Funding recipient: c8reZ5onTNSWufMJxZn5kQJN7yUjYY7ZB9aLvV677Bk (0.00203928 SOL)
+
+Signature: 5QrgFDFfzG4cPWgDv5mwioEg1o7keeQGCkax6kAbTEMA39xqRKxPsoXYtPQ38HeoQfKZ5HfpujapSKD9gSGWmGhG
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 96WX37vQhNmrYmE5UhWG1xFmYX6QM9X9vxUiNu3MtwYD --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 96WX37vQhNmrYmE5UhWG1xFmYX6QM9X9vxUiNu3MtwYD
+  Recipient associated token account: 4XsoSvvNJ4yGxBceWCFfCsYv4b1yqArByXPgEPbFk69w
+  Funding recipient: 4XsoSvvNJ4yGxBceWCFfCsYv4b1yqArByXPgEPbFk69w (0.00203928 SOL)
+
+Signature: 3dttgUZkreY1PTkcpHvWHZ67PeBuT3jBeWGRiRFxzVonokf165ZuAMT8BqSkRGxZuTh1bw9LLBxQKJkR9PufbQ5q
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 9cfqogj1zm8Xc7ziUBceVqVnT3D4gKFoxChsxM6kMXA9 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 9cfqogj1zm8Xc7ziUBceVqVnT3D4gKFoxChsxM6kMXA9
+  Recipient associated token account: ECD6zKd267V3YrKJNZnjBWh41McG1DVx228DRu61rPP4
+  Funding recipient: ECD6zKd267V3YrKJNZnjBWh41McG1DVx228DRu61rPP4 (0.00203928 SOL)
+
+Signature: T1VeryfTqMuxFAEy5BE5d6KKVtYodDNAUChFfC34kbb7AfutYoiDJrfhMxWknkUhFaGm2WQp4VZRwixNbXRnNSY
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 9qKZT4VJQaSTxRjGEgq6NmQy6iXtRPo8aKyyoj1HJqoE --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 9qKZT4VJQaSTxRjGEgq6NmQy6iXtRPo8aKyyoj1HJqoE
+  Recipient associated token account: R3uzwHPJYd7RE9t8ZfdJuYJ91zRBB4mpkE4eSR419vB
+  Funding recipient: R3uzwHPJYd7RE9t8ZfdJuYJ91zRBB4mpkE4eSR419vB (0.00203928 SOL)
+
+Signature: 2txRXGkWcHyEALT39QmiggaCkinvg2rc4ixkgMNgFL5VkSkR31cFe8YY1if1PzS6JeQSV6RiKx5mi58KZQG51RQQ
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 9qKZT4VJQaSTxRjGEgq6NmQy6iXtRPo8aKyyoj1HJqoE --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: 9qKZT4VJQaSTxRjGEgq6NmQy6iXtRPo8aKyyoj1HJqoE
+  Recipient associated token account: R3uzwHPJYd7RE9t8ZfdJuYJ91zRBB4mpkE4eSR419vB
+
+Signature: 3oM3kne3UGe4pNwoNzgF88hAWALMnnbZtR6yUByB44S4EM299yjN62G5jXFpsrqcWZjDiP6TdVUf5yqH3NEwVZLW
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 AxRjfrGQ1ASUZgj5k3CnSPGA45bVNsDW8zi4B9rhXTU5 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: AxRjfrGQ1ASUZgj5k3CnSPGA45bVNsDW8zi4B9rhXTU5
+  Recipient associated token account: 32cABPZN73NrCzXzzW7r8RNcFm2iCiwnpTyGt8GRpb7j
+  Funding recipient: 32cABPZN73NrCzXzzW7r8RNcFm2iCiwnpTyGt8GRpb7j (0.00203928 SOL)
+
+Signature: 81AsXjXGTy6C7NZUVmArH9vnQwUQ9ZEnAJuA9o9kU3XWfgpfNkoGH96ThMF8pUFXVgSGuYNiGuLLyjkw8J9Zz1k
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 EGKCZs1FNyT9Q6rzmfsPjWed1LkE7SzMrRkZkz3RekCL --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: EGKCZs1FNyT9Q6rzmfsPjWed1LkE7SzMrRkZkz3RekCL
+  Recipient associated token account: 7g2NsSgWTXWqthBcaKD9tnS9kmykzeEuyUcNYZcwn4EE
+  Funding recipient: 7g2NsSgWTXWqthBcaKD9tnS9kmykzeEuyUcNYZcwn4EE (0.00203928 SOL)
+
+Signature: 3JHFR9zNyxvWwoVJog8ch96B9CAWjBU8awjvRwHCAd8qSUJTQQZzKkLuh42Q3UFxvqT5xawqvuUgqft6PYzJL7ty
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 Ef4GXnPZHVcPYotnWVh2FkNdVEuLw9QZPX7nQ27R4Xvf --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: Ef4GXnPZHVcPYotnWVh2FkNdVEuLw9QZPX7nQ27R4Xvf
+  Recipient associated token account: GCXfZVedRVsEKCpRj9iwS3QQngmjrhh9s5wBknakbQvi
+  Funding recipient: GCXfZVedRVsEKCpRj9iwS3QQngmjrhh9s5wBknakbQvi (0.00203928 SOL)
+
+Signature: 3Ab8eD3D4eSuugyKx15GbQqqd9rSTES5YGL6jYf1eheACg8JHGr9Lk55QbCj3MyK1tKADjFCQYTUPN4rxYbMFjn5
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 GvNZngqFvfQY9CemuCzXjfatZ8CaePLfKKGDFUq93PNh --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: GvNZngqFvfQY9CemuCzXjfatZ8CaePLfKKGDFUq93PNh
+  Recipient associated token account: HkJFy1eVrGsYvPzL4BR1K35rgS1dtqAoPpfxxieEpJ3c
+  Funding recipient: HkJFy1eVrGsYvPzL4BR1K35rgS1dtqAoPpfxxieEpJ3c (0.00203928 SOL)
+
+Signature: 3Z5kuDZ3Svy1Qewbxz2ce8uWFM8gQY14Ztr32tkFno3vGSXipu5eeJWAMWoDrtoWhUF8WH8vULwARxxcpmmFwoUT
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 GvbEnTr9KeGL7FXEcPsztE4ycvNC3jAq6sLFcDfj4Wyj --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: GvbEnTr9KeGL7FXEcPsztE4ycvNC3jAq6sLFcDfj4Wyj
+  Recipient associated token account: A9mfBSq8hF6nwhcTU3tWSw4JsoK7ybw3drrjiTWA5um3
+  Funding recipient: A9mfBSq8hF6nwhcTU3tWSw4JsoK7ybw3drrjiTWA5um3 (0.00203928 SOL)
+
+Signature: 4rBpfYemmwbwpg7Uy11SLy4yMPEpWWXAr4i6JzJXedghDSPxYLp2ZSp7NfkcbZLThA3xiGNWU3Xvkef7Ds8h6TYr
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 J1BTVUjKjJvE4XccJjSUbyzNRbeg6XH5HLLpDNgFqoV3 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: J1BTVUjKjJvE4XccJjSUbyzNRbeg6XH5HLLpDNgFqoV3
+  Recipient associated token account: GyLetXnnxpUspb3hSMFuW8CTs7jctRGeduM5oVmYWCBQ
+  Funding recipient: GyLetXnnxpUspb3hSMFuW8CTs7jctRGeduM5oVmYWCBQ (0.00203928 SOL)
+
+Signature: 2XnHLdCiWJgYnEjMJrpNqE2VxwExL4eVpprQSygZpe6n82dHy32fZxyXYNp4oUyWVMcUB3RaQZhKKbp141Sn88zY
+
++ spl-token transfer 47Qt8pXRinMME4VCypnEqt6SvPzEbMZLyPJyN5TtdAjH 1 XGFZk186maEp6FtE2YMHNXiY2c9kTkUu88ofnnBm94j --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: 92TVqHT2Yo9yXuUU73DtH9CphvzNTsWYZXbDc6Koue9U
+  Recipient: XGFZk186maEp6FtE2YMHNXiY2c9kTkUu88ofnnBm94j
+  Recipient associated token account: DWahbM7Y1aiFtH3cRYamPG4aBo1A5GyFUjQL6Po7kRJA
+  Funding recipient: DWahbM7Y1aiFtH3cRYamPG4aBo1A5GyFUjQL6Po7kRJA (0.00203928 SOL)
+
+Signature: 3GX2V289CGwScpQ8GfWa8e2KhzY5vvNYFih4T2yaauA7DD2FvhSs2VeEChwcQhYs3xBGhJho3N6kRQnct7nvrTZD
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 2Q3eeeUWybExf2uv1nSm7MKkc5WyYnGNkTJtbC6SYMhg --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 2Q3eeeUWybExf2uv1nSm7MKkc5WyYnGNkTJtbC6SYMhg
+  Recipient associated token account: 6Gyxa7PvMnMTeAbTLhaz6y4sztW6uPMA6ehadFqYczCo
+  Funding recipient: 6Gyxa7PvMnMTeAbTLhaz6y4sztW6uPMA6ehadFqYczCo (0.00203928 SOL)
+
+Signature: 4r9AAnsYBz6ycheRScKk3tjpnie95RkWu9DKnbzd2Uo51hKKwD2YRSWNCyfFBnwmxgcEGHEr1wL2k9hCgnotkZYQ
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 2iMBvYsRjMZkborfH5zyeu9fXPrQWVf8AWbenmPZxYpV --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 2iMBvYsRjMZkborfH5zyeu9fXPrQWVf8AWbenmPZxYpV
+  Recipient associated token account: 2yfTyVERUvsdN443c9aTPJJZ2GaAhgHptBh3WZf6iLBi
+  Funding recipient: 2yfTyVERUvsdN443c9aTPJJZ2GaAhgHptBh3WZf6iLBi (0.00203928 SOL)
+
+Signature: 24XnUZqwLwAwPrcdg1jLEQGHENCEWDARCFjRQ8JE9e2YJPJfGmi87Ni1NirC441CMrvAZsdrekihpWPVn2UzwziK
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 3D49QorJyNaL4rcpiynbuS3pRH4Y7EXEM6v6ZGaqfFGK --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 3D49QorJyNaL4rcpiynbuS3pRH4Y7EXEM6v6ZGaqfFGK
+  Recipient associated token account: A2bSvjhC1jAkPHzZPzrQnsdR8z2j6ws1zA8PLLuhnsjf
+  Funding recipient: A2bSvjhC1jAkPHzZPzrQnsdR8z2j6ws1zA8PLLuhnsjf (0.00203928 SOL)
+
+Signature: 3s8QFeKJtZkU69GsDmKeLuDpY1eU98J5Vpqx6YsadbmV3REg44YEz9pRNxJHAxK8CtsTX8Gxg4tG7eqZ2PL9LbT1
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 3aHpBd6r7evsc4Zcd6XpYawBqLPTxaVReke9YfFQ54w3 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 3aHpBd6r7evsc4Zcd6XpYawBqLPTxaVReke9YfFQ54w3
+  Recipient associated token account: 4BErU5UGdqfhzKR4CDLfbiEeRxb97cLhUgTmBRWYwTAS
+  Funding recipient: 4BErU5UGdqfhzKR4CDLfbiEeRxb97cLhUgTmBRWYwTAS (0.00203928 SOL)
+
+Signature: 3GAsL4CqNbKa15eZ4qMLDKJSR48BSrCpSMyr9wenxW9C1LvB21Srt3ubd76JURvHkpoiDm8ervSNQJ3KcCS4RfJD
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 3foX5iBFqny8BBk9WnKm1tqZdFZNmf19fcuG9kLVV1sg --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 3foX5iBFqny8BBk9WnKm1tqZdFZNmf19fcuG9kLVV1sg
+  Recipient associated token account: 6dZ4kcj6oeToq77KkMyJYJjcL1gqzLwKbE2e3WfcvT31
+  Funding recipient: 6dZ4kcj6oeToq77KkMyJYJjcL1gqzLwKbE2e3WfcvT31 (0.00203928 SOL)
+
+Signature: EM7vpou9ba4LoYjXdXnB3zhrRCAj9MFrUZxFKLLWG1xpWGcvyGLxK6FuDjsRWvjybq3j85TefQhbY2xUxifAN7B
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 5uMQdr8WpWz6mt6Pki1WFQG3BNYFyxS722mjsiMeerkZ --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 5uMQdr8WpWz6mt6Pki1WFQG3BNYFyxS722mjsiMeerkZ
+  Recipient associated token account: BfqjtZun1KY69hHHPGYohH9oc6LT3gqphBZJnLVDzprK
+  Funding recipient: BfqjtZun1KY69hHHPGYohH9oc6LT3gqphBZJnLVDzprK (0.00203928 SOL)
+
+Signature: 5ZYtwQ26V4ZMQgaTV821T91VSjopsYMWpUtLEe5npt7pik1H6qA2NEp8N9xnXQUNh8zM72FaYLx2ucXsN1U6wws2
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 6KD5w15AsUzM4TSupyKY33U8YELku5vPfyG5xUKTL3uU --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 6KD5w15AsUzM4TSupyKY33U8YELku5vPfyG5xUKTL3uU
+  Recipient associated token account: E8wDCzBcadkLLZjkobC7o8KGaQe5yCQat9VaDjMwT7kN
+  Funding recipient: E8wDCzBcadkLLZjkobC7o8KGaQe5yCQat9VaDjMwT7kN (0.00203928 SOL)
+
+Signature: 2YTxDxrzoTUP42q8SPgPxz4tJZ7Duc3u3rtvJUCGb4a7idjB6ef2H3sLgKnHGzP4T2zf461DtEYEgYDd6oS1rim8
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 78LgpR8dpaYjKSNNWy8WcpxXCVBZdXDeYaq7kqQCYdvp
+  Recipient associated token account: 6eWkPbRFvxCLiKiNsiStgwuuhga8zYgGTh9ZTv29a2tN
+  Funding recipient: 6eWkPbRFvxCLiKiNsiStgwuuhga8zYgGTh9ZTv29a2tN (0.00203928 SOL)
+
+Signature: 3chzUMbYxF18AGLu83pTSNDKX77fFFZN45UHJodzjjXpvA1JZmYWvsdp6NBDJsB1WRVDXyHqquWDP8Y6vVwgVZo9
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 7BEgnmvPk5kDhc2qeK86GozqqEvmWXcpQH2oDAoJ9fcR --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 7BEgnmvPk5kDhc2qeK86GozqqEvmWXcpQH2oDAoJ9fcR
+  Recipient associated token account: DSskxMYfYy4hQJ4Q8TtZZeZjPb1iGTrdB2uaJ5Us3Dvr
+  Funding recipient: DSskxMYfYy4hQJ4Q8TtZZeZjPb1iGTrdB2uaJ5Us3Dvr (0.00203928 SOL)
+
+Signature: 43kgUEXLAGapXi81BvkdVEByc4e8pXoJrVGcKCJ3J7qgDDE5mfskEz8NCKihKSaU1iwXTfPie7htbtUUto8J7KhM
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 82xUQ3gpCw7LkijbMUnB1XMu5DcQLUjBwDKwG1v7aV9q --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 82xUQ3gpCw7LkijbMUnB1XMu5DcQLUjBwDKwG1v7aV9q
+  Recipient associated token account: DSsktWAbFsjuXLNgRwmYBJ4fKmynJfzjduBTJZnJqSRt
+  Funding recipient: DSsktWAbFsjuXLNgRwmYBJ4fKmynJfzjduBTJZnJqSRt (0.00203928 SOL)
+
+Signature: 47Eu5RY6r3hLGff4AZGDiM9exbHUkLx1QzQMvciyVW8EXM2usYprueAugyk2f68YAQmUZJbHjzuxzRerGgeySwWS
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 8ZuKC3kiZD5XsWV6Rd1nUn5YtEFXK4s8xygSQACk6eWo --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: 8ZuKC3kiZD5XsWV6Rd1nUn5YtEFXK4s8xygSQACk6eWo
+  Recipient associated token account: 8ymVSA2bUuZ5uV6sZ9DkzN4TKsQpLyXrndTgwK9MhkJx
+  Funding recipient: 8ymVSA2bUuZ5uV6sZ9DkzN4TKsQpLyXrndTgwK9MhkJx (0.00203928 SOL)
+
+Signature: 3hkiCo1KNKM26iu3UN6ZooehUkUu7q87CCibu6cK162mBtiu8EnxozKGgCWLuHb1oejySzf2sxSLv6mQunskqHPR
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 ANku3SWp9vX8bHfQEKnjnw29t5HGkxA4fMXxzcERQDgu --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: ANku3SWp9vX8bHfQEKnjnw29t5HGkxA4fMXxzcERQDgu
+  Recipient associated token account: Er79GM9RZwZ1Tu3yZdwFceaGou2uvEX3tpCZ72kndXbE
+  Funding recipient: Er79GM9RZwZ1Tu3yZdwFceaGou2uvEX3tpCZ72kndXbE (0.00203928 SOL)
+
+Signature: 2u2k75Wou6jRW6UJGq1o1o9tDrJwFaem4TdCdXkCsenmhY5yBHHcVfdcWfEAJ6JHVVqhF8UGfSgs51Rv63wqoxt
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 Ac1PJYJqwK2TTYGrihAQf24H1sXRoBPGXAtcsuDEmFG6 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: Ac1PJYJqwK2TTYGrihAQf24H1sXRoBPGXAtcsuDEmFG6
+  Recipient associated token account: 9KETvsu9AX48eSM5zaTJoNWUmmEcYXmwFtnDYEp6XyPp
+  Funding recipient: 9KETvsu9AX48eSM5zaTJoNWUmmEcYXmwFtnDYEp6XyPp (0.00203928 SOL)
+
+Signature: PLHugc58d5JGpsh9HdgEqMSb1XGFxmfnj3AwE6G5Qoy7rYkavWrhycVEdP8VHXPsjysU7XViszupvtVVaUW7xLZ
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: BnzZgzLSLhnjm2yydueqEuMft8LJYYQKyxyoywqHBMfA
+  Recipient associated token account: GetgjFVEYD5u53TbFkzJkSkzUu2YtEeRT7gtutw4YJF1
+  Funding recipient: GetgjFVEYD5u53TbFkzJkSkzUu2YtEeRT7gtutw4YJF1 (0.00203928 SOL)
+
+Signature: 3MLi8FULrgWibTDdVqhuJ7bUHSu8HtWEFkf5j8TTm7wVKLvGLrioSKSX4FPHQa54VpeubYbHJhkkUuyH2yeJLHU6
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 DFFxeudhPNdq1vASrh2SKhsmVipwXhStpnZYW1LLssm3 --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: DFFxeudhPNdq1vASrh2SKhsmVipwXhStpnZYW1LLssm3
+  Recipient associated token account: YJZiGAP29mRk1Ff6YXikGXovzPYEJmyjfN7MBPQEyQh
+  Funding recipient: YJZiGAP29mRk1Ff6YXikGXovzPYEJmyjfN7MBPQEyQh (0.00203928 SOL)
+
+Signature: 2GozxmrEUAa1s5sEihdi3m1EbTV58J9VJ4VtnHWT1YY4juyNds1CdC13y9VbyD1sRaHKkTsaXmJJCnCz7uyQjg3U
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 Fk5boXA749zxRkAyVVh7sH8pG5v4WTiaavin9GEnqWBr --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: Fk5boXA749zxRkAyVVh7sH8pG5v4WTiaavin9GEnqWBr
+  Recipient associated token account: 9dn9Yd2LVx39ubPbPbdXM9eJNZgphKJS1imqA2tJjs2L
+  Funding recipient: 9dn9Yd2LVx39ubPbPbdXM9eJNZgphKJS1imqA2tJjs2L (0.00203928 SOL)
+
+Signature: 5GyULn6k91xzhEYbpLFewMyNT7RZMkPMSciUGja6vPzJ2EMXHmtaLpYfAHkPrCWgK42GeU6Fq2VWQ8mbywgRD3RQ
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: GUfCR9mK6azb9vcpsxgXyj7XRPAKJd4KMHTTVvtncGgp
+  Recipient associated token account: 7vSNyakceyGrGty85BtamoicYtW16MPy6wQ1N6KgSu8Q
+  Funding recipient: 7vSNyakceyGrGty85BtamoicYtW16MPy6wQ1N6KgSu8Q (0.00203928 SOL)
+
+Signature: 5MkHZaGDisjXR9MexMUUj9s8AmCxJEaQCjkNQ6JTXjG2Co5LFVzDqAhrmdfBeRNeuTZPkeieEDfu4G5ojn3Bhzxg
+
++ spl-token transfer 853uKMwykX2SjgD7PqunL934xwGy3NhoiZXQFHeRDDTe 1 HsYqf2nKv1dHHBB4SD9zsDCjPysa5NeGGUKnwJJ73Pjc --fund-recipient --allow-unfunded-recipient
+Transfer 1 tokens
+  Sender: EQGMC4uxEpu4rJN9uwv4ZoRtjuktmjyZoMdKffw1sEJW
+  Recipient: HsYqf2nKv1dHHBB4SD9zsDCjPysa5NeGGUKnwJJ73Pjc
+  Recipient associated token account: FWK7vSEKo8zX81EJfzafg16hB67x2QzugNJHn2LUCWXe
+  Funding recipient: FWK7vSEKo8zX81EJfzafg16hB67x2QzugNJHn2LUCWXe (0.00203928 SOL)
+
+Signature: 2Xg72tAxW4pHK79DMMgLRD88UCLxNVivz51Tz6DQsZMw8u4dH9yy9cYd8nGxQV83mTfLawWHTyJyd5Ea98Dov8xs
+
